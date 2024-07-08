@@ -58,7 +58,7 @@ with st.sidebar:
     reset = st.button('Reset Chat!') # reset the chat
 
     st.write("[Get your API key](https://platform.openai.com/account/api-keys)")
-    st.write("[GitHub](https://github.com/Jayshah25/Multi-Document-Agentic-RAG-for-Quantum-Computing)")
+    st.write("[GitHub](https://github.com/Jayshah25/Chat-with-your-SQL-Database)")
     
 
 
